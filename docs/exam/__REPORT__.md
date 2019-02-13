@@ -1,8 +1,8 @@
 ---
-title: 
-author:
+title: Midterm 1
+author: Geordan Alferos
 partner:
-date:
+date: 13 Feb. 2019 
 ---
 Embed math equations into Github Markdown file using a [web service](https://www.codecogs.com/latex/eqneditor.php)
 
@@ -69,3 +69,8 @@ Analyze the CMOS circuit below.
 - c. What gate is it?
 
 ![Unknown gate](figures/problem_a.png)
+
+![img_1043](https://user-images.githubusercontent.com/46539677/52741133-ba519300-2f78-11e9-85de-a6c16d5194f5.jpg)
+![img_1044](https://user-images.githubusercontent.com/46539677/52741138-bde51a00-2f78-11e9-879d-1e623be660d4.jpg)
+![img_1045](https://user-images.githubusercontent.com/46539677/52741141-bfaedd80-2f78-11e9-9db6-50086cdb1a01.jpg)
+
